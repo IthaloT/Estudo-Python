@@ -1,2 +1,2 @@
-# Estudo Python
- Primeiro repositorio versionado 
+# Estudo linguagem python: Exercícios
+ Primeiro repositorio criado
